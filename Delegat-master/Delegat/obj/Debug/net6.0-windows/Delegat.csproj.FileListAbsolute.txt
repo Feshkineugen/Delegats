@@ -1,0 +1,17 @@
+C:\Users\feshk\source\repos\Delegat-master\Delegat\bin\Debug\net6.0-windows\Delegat.exe
+C:\Users\feshk\source\repos\Delegat-master\Delegat\bin\Debug\net6.0-windows\Delegat.deps.json
+C:\Users\feshk\source\repos\Delegat-master\Delegat\bin\Debug\net6.0-windows\Delegat.runtimeconfig.json
+C:\Users\feshk\source\repos\Delegat-master\Delegat\bin\Debug\net6.0-windows\Delegat.dll
+C:\Users\feshk\source\repos\Delegat-master\Delegat\bin\Debug\net6.0-windows\Delegat.pdb
+C:\Users\feshk\source\repos\Delegat-master\Delegat\obj\Debug\net6.0-windows\Delegat.csproj.AssemblyReference.cache
+C:\Users\feshk\source\repos\Delegat-master\Delegat\obj\Debug\net6.0-windows\Delegat.Form1.resources
+C:\Users\feshk\source\repos\Delegat-master\Delegat\obj\Debug\net6.0-windows\Delegat.csproj.GenerateResource.cache
+C:\Users\feshk\source\repos\Delegat-master\Delegat\obj\Debug\net6.0-windows\Delegat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feshk\source\repos\Delegat-master\Delegat\obj\Debug\net6.0-windows\Delegat.AssemblyInfoInputs.cache
+C:\Users\feshk\source\repos\Delegat-master\Delegat\obj\Debug\net6.0-windows\Delegat.AssemblyInfo.cs
+C:\Users\feshk\source\repos\Delegat-master\Delegat\obj\Debug\net6.0-windows\Delegat.csproj.CoreCompileInputs.cache
+C:\Users\feshk\source\repos\Delegat-master\Delegat\obj\Debug\net6.0-windows\Delegat.dll
+C:\Users\feshk\source\repos\Delegat-master\Delegat\obj\Debug\net6.0-windows\refint\Delegat.dll
+C:\Users\feshk\source\repos\Delegat-master\Delegat\obj\Debug\net6.0-windows\Delegat.pdb
+C:\Users\feshk\source\repos\Delegat-master\Delegat\obj\Debug\net6.0-windows\Delegat.genruntimeconfig.cache
+C:\Users\feshk\source\repos\Delegat-master\Delegat\obj\Debug\net6.0-windows\ref\Delegat.dll
